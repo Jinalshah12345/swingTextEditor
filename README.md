@@ -9,6 +9,8 @@ It can change font size, font style and can also change color of written text.
 
 It allows to open, save and create new file.
 
+# Some of the Screenshots captured from application are as follows:
+
 
 
 # AUTHOR
