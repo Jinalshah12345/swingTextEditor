@@ -1,26 +1,24 @@
 # swingTextEditor
 jinalTextEditor is a simple and light text editor (notepad) written in Java.
 
-Programming Java Text Editor
+# It has following various functionalies:
 
-Search tool (to search text/keywords easily in the code) + highlighting the code found.
+It can add, edit and delete text in TextArea.
 
-Find/Replace text/code.
+It can change font size, font style and can also change color of written text.
 
-Drag and Drop (drag files into the text area and they get loaded).
+It allows to open, save and create new file.
 
 
 
-Example Java Text Editor
-
-AUTHOR
+# AUTHOR
 Jinal Kalpesh Shah
 
 
 
 
 
-DEMO
+# DEMO
 Download the Jar file and double click to run
 
 Or run java -jar jinalTextEditor.jar from the command line
