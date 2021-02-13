@@ -11,7 +11,7 @@ It allows to open, save and create new file.
 
 # Some of the Screenshots captured from application are as follows:
 
-![](Screenshots/SS11.png)
+![](Screenshots/SS1.png)
 
 
 
