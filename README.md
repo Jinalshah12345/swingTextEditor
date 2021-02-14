@@ -1,7 +1,7 @@
 # swingTextEditor
 jinalTextEditor is a simple and light text editor (notepad) written in Java using Swing toolkit.
 
-# It has following various functionalies:
+# It has following various functionalities:
 
 - [x] Basic display and scrolling: the editor can display the contents of a file in a window along with vertical scrollbars.
 
